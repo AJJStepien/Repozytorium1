@@ -1,8 +1,3 @@
-tu jest plik notatki.txt
-a tutaj jest nowa linia
-i tu jest jeszcze jedna linia
-
-
 ================RODZIAŁ 1===============
 
 git init - inicjalizacja repozytorium
